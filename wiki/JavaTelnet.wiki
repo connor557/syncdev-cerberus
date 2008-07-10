@@ -22,6 +22,6 @@ The only known drawback is that file transfers are disabled.
 
 * Ability to view and admire ANSI / ASCII Artwork
 
-* Common medium for popular text-based RPGs, MORPGs, MUDs, MOOs and Game Servers
+* Common medium for popular text-based Door Games, RPGs, MORPGs, MUDs, MOOs and Game Servers
 
 * Remote Administration of the BBS (Server) for Sysops (Administrators)
