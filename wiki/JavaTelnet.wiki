@@ -1,5 +1,5 @@
-#summary One-sentence summary of this page.
 #labels javatelnet,remoteaccess,games,chat,rpg,morpg,mud,moo,gameserver
+Access Telnet using your web browser.
 
 = JavaTelnet =
 
