@@ -1,0 +1,25 @@
+Access Telnet using your web browser.
+
+# JavaTelnet #
+
+Is a means by which a web browser can be used to access a telnet shell, which typically would require a client software such as SyncTerm, MiniTelnet or the Default Telnet Application predefined by your Operating System.
+
+
+## Purpose ##
+
+Quick, easy and convenient access via your web browser to the telnet aspect of a multi-protocol server which does not require you to launch a third party application (or download and install one if you do not already have one or you do not like the one that comes default on your OS).
+
+## Drawbacks ##
+
+The only known drawback is that file transfers are disabled.
+
+## Common Uses ##
+
+**Faster than a typical web page to perform similar tasks**
+
+**Makes for a convenient chat interface**
+
+**Ability to view and admire ANSI / ASCII Artwork**
+
+**Common medium for popular text-based Door Games, RPGs, MORPGs, MUDs, MOOs and Game Servers**
+
